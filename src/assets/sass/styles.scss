@@ -1,0 +1,40 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  min-height: 100%;
+  background: url('/assets/i/bg.png') no-repeat;
+  background-size: cover;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 1200px;
+  background: white;
+  height: calc(100% - 150px);
+}
+
+.navbar {
+  height: 150px;
+  user-select: none;
+}
+
+.navbar-brand {
+  margin-left: 25px;
+}
+.nav-item {
+  margin: 0 5%;
+}
+
+.nav-link {
+  color: #c977eb!important;
+  font-family: Tahoma, serif;
+  font-size: 20px;
+}
+
+.navbar-nav {
+  @media screen and (max-width: 1600px){width: 39%;}
+  background: rgba(237,108,158,0.4);
+  width: 25%;
+  position: absolute;
+  float: right;
+}

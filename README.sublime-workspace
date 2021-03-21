@@ -1,0 +1,475 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-start\tjustify-content"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"row",
+				"row\tflex-flow"
+			],
+			[
+				"spe",
+				"space-between\tjustify-content"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"ball",
+				"ballContent"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"start",
+				"startGame"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"fons",
+				"font-style\tproperty"
+			],
+			[
+				"endl",
+				"endBlock"
+			],
+			[
+				"tra",
+				"translate()\ttransform"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/tpl/layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 1385,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/sass/styles.scss",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulp: Delete cache"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"bran",
+				"Git: New Branch"
+			],
+			[
+				"branc",
+				"Git: New Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git check",
+				"Git: Checkout Tag"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OpenServer/domains/BlueLagoone",
+		"/C/OpenServer/domains/BlueLagoone/src",
+		"/C/OpenServer/domains/BlueLagoone/src/assets",
+		"/C/OpenServer/domains/BlueLagoone/src/assets/sass",
+		"/C/OpenServer/domains/BlueLagoone/src/tpl",
+		"/C/OpenServer/domains/BlueLagoone/src/tpl/layouts"
+	],
+	"file_history":
+	[
+		"/C/OpenServer/domains/BlueLagoone/src/index.php",
+		"/C/OpenServer/domains/BlueLagoone/public/index.php",
+		"/C/OpenServer/domains/BlueLagoone/src/tpl/layouts/default.html",
+		"/C/Users/User/OneDrive/Desktop/site/index.html",
+		"/C/Users/User/OneDrive/Desktop/site/style.css",
+		"/C/OpenServer/domains/BlueLagoone/README.md",
+		"/C/OpenServer/domains/BlueLagoone/package-lock.json",
+		"/C/OpenServer/domains/BlueLagoone/README.sublime-project",
+		"/C/Users/User/OneDrive/Desktop/site/pic/pic.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa168.25478/project/style.css",
+		"/C/Users/User/OneDrive/Desktop/site/pic.html",
+		"/C/Users/User/OneDrive/Desktop/site/pic",
+		"/C/Users/User/OneDrive/Desktop/site/index2",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa20388.48512/project/script.js",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa9944.45181/project/style.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa5500.33496/project/style.css",
+		"/C/Users/User/OneDrive/Desktop/site/Website.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa9808.23410/project/index.html",
+		"/C/Users/User/OneDrive/Desktop/site/color.css",
+		"/C/Users/User/OneDrive/Desktop/site/Киноафиша Киева. Продажа билетов в кино онлайн!.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/D/sublime text 3/документы/game/script.js",
+		"/D/sublime text 3/документы/game/functions.js",
+		"/D/sublime text 3/документы/game/events.js",
+		"/D/sublime text 3/документы/game/main.html",
+		"/C/Users/User/OneDrive/Desktop/index",
+		"/C/Users/User/OneDrive/Desktop/site/index",
+		"/D/sublime text 3/документы/game/variables.js",
+		"/D/sublime text 3/документы/game/style.css",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa21696.20577/project/script.js",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa21696.43191/project/style.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa21696.089/project/index.html",
+		"/D/sublime text 3/документы/игра/main.html",
+		"/D/читы cаши/CSGO_external (1).exe",
+		"/C/Users/User/Downloads/YuQu-2.0.6.exe",
+		"/D/cheats/GH Injector V3.3/GH Injector.exe",
+		"/D/xampp server/htdocs/chat.local/index.php",
+		"/D/читы/CSGO_external (1).exe",
+		"/C/Users/User/AppData/Roaming/.minecraft/mods/SuperTNT-1.12.2-1.0.1.jar"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/tpl/layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/assets/sass/styles.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.8
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 173.0
+	},
+	"output.gulp_output":
+	{
+		"height": 190.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
